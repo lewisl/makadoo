@@ -1,2 +1,3 @@
 This is a test file.
 This is a punctuation change whose commit doesn't need to be in the history.
+made a change with v 0.2.0 extension after running init.
