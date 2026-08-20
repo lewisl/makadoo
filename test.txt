@@ -3,3 +3,4 @@ This is a punctuation change whose commit doesn't need to be in the history.
 made a change with v 0.2.0 extension after running init.
 now at computer 2, ran init to update with v 0.2.1.  added this line.
 now at computer 1, ran get from remote with v 0.2.3. added this line.
+now at computer 2, ran get from remote with v 0.2.3.  added this line.
